@@ -1,0 +1,23 @@
+{
+    "name": "lockfocis",
+    "title": "jQuery Lock Focus",
+    "description": "Plugin para blockear el foco en un field especifico",
+    "keywords": [
+        "form"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Mauro Cifuentes",
+        "email" : "mmscifu@gmail.com",
+        "url": "http://www.whitecat.com.ar"
+    },
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
