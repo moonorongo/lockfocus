@@ -1,5 +1,5 @@
 {
-    "name": "jquery.lockfocus.js",
+    "name": "lockfocus",
     "title": "jQuery Lock Focus",
     "description": "Plugin para blockear el foco en un field especifico",
     "keywords": [
